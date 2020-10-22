@@ -1,0 +1,10 @@
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\bin\Debug\MyMenuDemo.exe.config
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\bin\Debug\MyMenuDemo.exe
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\bin\Debug\MyMenuDemo.pdb
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.Form1.resources
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.Properties.Resources.resources
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.csproj.GenerateResource.cache
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.exe
+C:\Users\NARAYANA\Source\Repos\MyMenuDemo\MyMenuDemo\obj\Debug\MyMenuDemo.pdb
