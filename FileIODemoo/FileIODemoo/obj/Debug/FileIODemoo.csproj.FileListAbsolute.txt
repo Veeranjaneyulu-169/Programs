@@ -1,0 +1,10 @@
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\bin\Debug\FileIODemoo.exe.config
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\bin\Debug\FileIODemoo.exe
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\bin\Debug\FileIODemoo.pdb
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.Form1.resources
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.Properties.Resources.resources
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.csproj.GenerateResource.cache
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.exe
+C:\Users\NARAYANA\Source\Repos\FileIODemoo\FileIODemoo\obj\Debug\FileIODemoo.pdb
