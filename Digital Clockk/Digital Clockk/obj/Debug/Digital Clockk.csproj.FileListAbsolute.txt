@@ -1,0 +1,10 @@
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\bin\Debug\Digital Clockk.exe.config
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\bin\Debug\Digital Clockk.exe
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\bin\Debug\Digital Clockk.pdb
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital Clockk.csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital_Clockk.Form1.resources
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital_Clockk.Properties.Resources.resources
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital Clockk.csproj.GenerateResource.cache
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital Clockk.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital Clockk.exe
+C:\Users\NARAYANA\Source\Repos\Digital Clockk\Digital Clockk\obj\Debug\Digital Clockk.pdb
