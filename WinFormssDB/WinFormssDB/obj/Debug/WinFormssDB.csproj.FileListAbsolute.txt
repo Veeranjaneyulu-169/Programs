@@ -1,0 +1,12 @@
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\bin\Debug\StudentData.mdf
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\bin\Debug\StudentData_log.ldf
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\bin\Debug\WinFormssDB.exe.config
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\bin\Debug\WinFormssDB.exe
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\bin\Debug\WinFormssDB.pdb
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.Form1.resources
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.Properties.Resources.resources
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.csproj.GenerateResource.cache
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.exe
+C:\Users\NARAYANA\Source\Repos\WinFormssDB\WinFormssDB\obj\Debug\WinFormssDB.pdb
