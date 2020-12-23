@@ -1,0 +1,2 @@
+C:\Users\NARAYANA\Source\Repos\CA1(20181CSE0099)\CA1(20181CSE0099)\obj\Release\CA1(20181CSE0099).csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\CA1(20181CSE0099)\CA1(20181CSE0099)\obj\Release\CA1(20181CSE0099).csproj.CoreCompileInputs.cache
